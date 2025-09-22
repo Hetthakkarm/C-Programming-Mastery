@@ -1,0 +1,22 @@
+# Create the stack explanation text content
+stack_content = """📘 What is a Stack?
+
+👉 A stack is a linear data structure that follows the LIFO (Last In, First Out) principle.
+
+The last element inserted is the first one to be removed.
+
+Think of a stack of plates in a cafeteria:
+
+- You put a plate on top → Push
+- You remove a plate from top → Pop
+
+🔹 Key Features of Stack
+- Order: Follows LIFO.
+- Access: Only top element is accessible.
+- Insertion/Deletion: Done only at the top.
+
+🔹 Stack Operations
+- Push: Add an element to the stack.
+- Pop: Remove an element from the stack.
+- Peek/Top: View the top element without removing it.
+- Display: Show all elements of the stack (top to bottom).
