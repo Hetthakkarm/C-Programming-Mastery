@@ -1,0 +1,21 @@
+📘 __What is a Stack?__
+👉 A stack is a linear data structure that follows the LIFO (Last In, First Out) principle.
+The last element inserted is the first one to be removed.
+
+Example: Think of a stack of plates in a cafeteria:
+
+You put a plate on top → Push
+You remove a plate from top → Pop
+
+🔹 Key Features of Stack
+Order: Follows LIFO.
+Access: Only top element is accessible.
+Insertion/Deletion: Done only at the top.
+
+🔹 Stack Operations
+
+Push: Insert an element at the top of the stack.
+Pop: Remove the element from the top of the stack.
+Peek/Top: Get the element at the top without removing it.
+isEmpty: Check if the stack is empty.
+isFull: Check if the stack is full (in case of array implementation).
